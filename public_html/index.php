@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://isb388.com.co/"/>
 <meta property="og:site_name" content="ISB388 Website Slot Gacor Online Setiap Hari"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="google-site-verification" content="l3yLvBNQf2EhA7ZpfeNI4sVdbbnysIBX_tyrmMVYv14" />
+<meta name="google-site-verification" content="axjA9NvJsWOlXPKgvqKDTNdVxttfmPPc3hEN6ta98mY" />
 <link href="https://static.nukeasset.com/assets/images/store/2022-04-10T05:09:21.559Z_Favicon.png" rel="shortcut icon" type="image/x-icon">
 <style amp-runtime i-amphtml-version="012107240354000">
         html.i-amphtml-fie {
